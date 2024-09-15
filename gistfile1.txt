@@ -1,3 +1,3 @@
 {
-  "urls": ["https://l73fhhfb-5001.uks1.devtunnels.ms/","https://cnggd9cd-5000.brs.devtunnels.ms/","https://z28hnctx-5050.brs.devtunnels.ms/","https://g31jc1tj-5000.brs.devtunnels.ms/"]
+  "urls": ["https://l73fhhfb-5001.uks1.devtunnels.ms/","https://cnggd9cd-5000.brs.devtunnels.ms/","https://z28hnctx-5000.brs.devtunnels.ms/","https://g31jc1tj-5000.brs.devtunnels.ms/"]
 }
